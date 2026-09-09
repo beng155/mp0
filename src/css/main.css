@@ -1,1 +1,19 @@
 /* Your CSS here. */
+.card {
+    text-align: center;
+    padding: 50px;
+    margin: 100px;
+    width: fit-content;
+    background-color: rgb(172, 235, 235);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    max-height: 150px;
+    max-width: 150px;
+}
